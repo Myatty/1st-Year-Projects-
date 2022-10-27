@@ -6,9 +6,9 @@ while True :
         
     else :
         if x%2 == 0 :
-            print("The number u have typed is odd.")
+            print("The number u have typed is even.")
 
         else :
-            print("The number u have typed is even.")
+            print("The number u have typed is odd.")
         
     
